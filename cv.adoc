@@ -1,0 +1,61 @@
+:doctype: book
+:imagesdir: ./images
+:iconsdir: ./icons
+:nofooter:
+
+John Doe:: 123 East Avenue
+New York City, USA, 012345 +
++1 (123) 456-7890 +
+\john.doe@email.com +
+image:gh.png[20,20] | github.com/JonhDoe123
+
+
+[#work-experience]
+=== Work Experience
+'''
+[horizontal]
+2019  ~December~:: **Senior Software Developer at Good Company Inc.** Tasks: Backend and frontend software development. Manager - Isaac Newton +
+__“Good Company Inc.”, Good Company Head Office. 345 West Avenue, P.O. Box 1234,New York City, NY, USA 012345, Tel: +1 (123) 456-7890.__
+2017  ~March~:: Junior Software Developer at Good Company Inc. Tasks: Backend and frontend software development. Manager - Isaac Newton +
+__“Good Company Inc.”, Good Company Head Office. 345 West Avenue, P.O. Box 1234,New York City, NY, USA 012345, Tel: +1 (123) 456-7890.__
+2015 ~June-Sept.~:: Waiter at Pizza Hut. Tasks: Food service, receiving and processing customer orders, cleaning duties. Manager - Niels Bohr
+__“Pizza Hut” 999 Main Street, Newark, NJ, 012345, Tel: +1 (123) 456-7890.__
+
+
+[#academic-record]
+=== Academic Record
+'''
+[horizontal]
+2009–2014:: **__University of Vienna, Bachelor of Computer Science. Vienna, Austria__** +
+__Computer Science Society Vice-President 2013-2014__ +
+__Chess Club President 2012-2013__ 
+
+[#it-skills]
+=== IT Skills
+'''
+[horizontal]
+Core Skills: :: 
+Software Development:::
+Programming languages: Rust, Golang, Python, C++, Haskell +
+
+Operating Systems: :: 
+Linux:::
+CentOS 7, Debian 9, Arch Linux +
+Others:::
+Microsoft Windows 98 - 10 +
+Mac OS X, MacOS Sierra - Catalina +
+
+<<<
+
+[#language-skills]
+=== Language Skills
+'''
+[horizontal]
+Fluent: :: English
+Advanced: :: French
+Mother Tongue: :: German
+
+[#personal-interests]
+=== Personal Interests
+'''
+Hiking, swimming, robotics, popular science books 
